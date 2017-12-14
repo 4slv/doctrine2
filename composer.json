@@ -1,5 +1,5 @@
 {
-    "name": "potievdev/doctrine2",
+    "name": "4slv/doctrine2",
     "type": "library",
     "description": "Object-Relational-Mapper for PHP",
     "keywords": ["orm", "database"],
